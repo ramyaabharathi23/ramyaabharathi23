@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramyaabharathi23
 - 👀 I’m interested in discovering
-- 🌱 I’m currently learning R
+- 🌱 I’m intrested in Cloud
 - 💞️ I’m looking to collaborate on the things which inspires me 
 - 📫 How to reach me : linkedin id : Ramyaabharathi M
 
